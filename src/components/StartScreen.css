@@ -1,0 +1,10 @@
+.start-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+}
+
+.switch-container {
+    margin-top: 25px;
+}
