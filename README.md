@@ -2,7 +2,7 @@
 
 A simple yet functional web application that allows users to sign in/sign up, browse items by department, add them to a cart, and filter by price. An admin panel is also included for managing departments and items.
 
-> 💼 *This was my first full-stack project using React and .NET, completed during my internship at [SEG International](https://azseg.com/). It helped me gain hands-on experience with modern web development, authentication, state management, REST APIs, and database design.*
+> 💼 *This was my first full-stack project using React and .NET (also my first time using react and C#), completed during my internship at [SEG International](https://azseg.com/). It helped me gain hands-on experience with modern web development, authentication, state management, REST APIs, and database design.*
 
 ---
 
