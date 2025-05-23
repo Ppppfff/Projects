@@ -84,13 +84,6 @@ This project uses the following technologies:
 
 ---
 
-## 🧑‍💻 Admin Access (For Demo Purposes)
-
-- **Username :** admin
-- **Password :** admin
-
----
-
 ## 🚀 How to Run Locally
 
 Follow these steps to run the application on your local machine.
